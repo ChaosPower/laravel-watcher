@@ -1,0 +1,20 @@
+{
+    "name": "chaospower/laravel-watcher",
+    "description": "React way of watching filesystems in Laravel",
+    "type": "project",
+    "require": {
+        "react/react": "^0.4.2"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.4",
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Randy Glenn Aguirre",
+            "email": "rgat.randy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
